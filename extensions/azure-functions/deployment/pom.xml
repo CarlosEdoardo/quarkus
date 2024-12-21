@@ -87,7 +87,7 @@
         <dependency>
             <groupId>com.azure</groupId>
             <artifactId>azure-core-management</artifactId>
-            <version>1.8.0</version>
+            <version>1.15.6</version>
             <exclusions>
                 <exclusion>
                     <groupId>com.azure</groupId>
